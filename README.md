@@ -1,106 +1,40 @@
-# IDE Master v4.0 🚀  
-**Your smart bridge to AI**
+IDE Master v4.0 🚀
 
-IDE Master v4.0 is a hyper-fast, beautifully designed Integrated Development Environment (IDE) engineered by the **HPR** team. It is specifically built for developers who need a seamless, fully offline workspace to integrate and test AI-generated code without relying on heavy cloud platforms.
+The Definitive Offline Bridge to AI-Powered Development
 
----
+IDE Master v4.0 is a hyper-optimized, elegantly architected Integrated Development Environment crafted by the HPR engineering team. It is purpose-built for developers, data scientists, and AI engineers who demand a frictionless, fully offline workspace to seamlessly integrate, test, and debug AI-generated code—free from the latency, privacy concerns, and resource overhead of cloud-based platforms.
 
-## 🎯 چرا IDE Master؟
-- **کاملاً آفلاین**: بدون نیاز به اینترنت، امن و خصوصی.
-- **سرعت فوق‌العاده**: طراحی شده با بهینه‌سازی‌های سطح پایین برای اجرای روان روی سخت‌افزارهای معمولی.
-- **یکپارچه با هوش مصنوعی**: بهترین ابزار برای تست و دیباگ کدهای تولیدشده توسط AI.
-- **صرفه‌جویی در زمان**: خودکارسازی ایجاد فایل‌ها، فرمت‌کردن و نسخه‌بندی.
+In an era where AI accelerates development, IDE Master bridges the gap between generative models and production-ready code, giving you complete control over your local environment.
+🎯 Why IDE Master?
 
----
+    100% Offline & Privacy-First
+    No internet connection is required, ensuring your intellectual property and sensitive code remain secure and private on your machine.
 
-## ✨ ویژگی‌های کلیدی
+    Blazing-Fast Performance
+    Engineered with low-level optimizations and a lightweight footprint, IDE Master runs smoothly on modest hardware (even on systems with only 4GB of RAM) without compromising speed.
 
-| ویژگی | توضیح |
-| :--- | :--- |
-| **Auto-Creation Magic** | با کپی کردن کد AI و مسیر فایل، با یک `Ctrl+S` تمام پوشه‌های تو در تو ساخته شده و فایل ذخیره می‌شود. |
-| **Time Machine (Version History)** | اسنپ‌شات‌های خودکار در پس‌زمینه، امکان بازگشت به نسخه‌های قبلی با یک کلیک را فراهم می‌کند. |
-| **PEP 8 Auto-Formatter** | یکپارچه‌سازی `autopep8` برای فرمت‌کردن خودکار کد پایتون (`Ctrl+Shift+Alt+F`). |
-| **Advanced Global Search** | جستجوی آنی در کل پروژه و پرش به کلاس‌ها و متدها با `Ctrl+Shift+O`. |
-| **Project Exporter** | خروجی گرفتن از کل پروژه به صورت یک فایل `.txt` برای تغذیه به AI، یا خروجی `.pdf` برای مستندات. |
-| **Integrated Terminal** | اجرای اسکریپت‌ها و مدیریت محیط‌های مجازی بدون خروج از ویرایشگر. |
-| **AI Debugger Assistant** | تحلیل خودکار خطاها و پیشنهاد راه‌حل‌های رفع مشکل. |
+    AI-Native Integration
+    It is the ultimate sandbox for testing, validating, and debugging code produced by Large Language Models (LLMs), with features designed specifically to handle the unique workflows of AI-assisted development.
 
----
+    Time-Saving Automation
+    Automates tedious tasks: file creation, folder tree generation, code formatting, and version snapshots—so you can focus on logic, not boilerplate.
 
-## 🆚 مزیت‌های رقابتی (چرا IDE Master برتر است؟)
+✨ Key Features
+Feature	Description
+Auto-Creation Magic	Copy your AI-generated code along with the target file path, hit Ctrl+S, and IDE Master automatically creates all nested directories and saves the file—eliminating manual folder creation.
+Time Machine (Version History)	Automatic background snapshots of your files allow you to revert to any previous version with a single click. Never lose a working iteration again.
+PEP 8 Auto-Formatter	Seamless integration of autopep8 for one-click Python code formatting (Ctrl+Shift+Alt+F), ensuring your code adheres to industry standards.
+Advanced Global Search	Instantly search across your entire project and jump directly to classes, functions, and methods using Ctrl+Shift+O.
+Project Exporter	Export your entire project as a single .txt file—perfect for feeding back into AI models for review—or generate a beautifully formatted .pdf for documentation purposes.
+Integrated Terminal	Run scripts, manage virtual environments, and execute system commands without leaving the editor.
+AI Debugger Assistant	Automatically analyzes runtime errors and suggests actionable, intelligent solutions, speeding up the debugging cycle significantly.
+🆚 Competitive Advantages: Why IDE Master Outperforms the Rest
+Competitors (VS Code, PyCharm, etc.)	IDE Master
+Require multiple plugin installations and complex setups.	All-in-One: Comes fully equipped out-of-the-box with zero configuration required.
+Heavy RAM and CPU consumption; slow on older systems.	Lightweight & Efficient: Optimized for performance on standard hardware (designed to run on systems with minimal resources).
+Many features rely on cloud connectivity and telemetry.	Fully Offline & Secure: No data leaves your machine.
+Cluttered interfaces with endless menus and options.	Minimalist & Intuitive: A clean, distraction-free design that prioritizes usability.
+Expensive "Pro" versions with paywalls for core features.	Completely Free & Open-Source (with a proprietary permissive license).
 
-| رقبا (VS Code, PyCharm, etc.) | IDE Master |
-| :--- | :--- |
-| نیاز به نصب پلاگین‌های متعدد | **همه‌چیز یکجا** و بدون تنظیمات اضافی |
-| مصرف بالای رم و پردازنده | **سبک و بهینه**، مناسب برای سیستم‌های ضعیف |
-| اتصال به اینترنت برای بسیاری از قابلیت‌ها | **کاملاً آفلاین** و امن |
-| منوهای شلوغ و پیچیده | **طراحی مینیمال** و کاربرپسند |
-| قیمت بالا (نسخه‌های حرفه‌ای) | **رایگان و متن‌باز** (با مجوز اختصاصی) |
+    IDE Master = Power + Simplicity + Speed
 
-> **IDE Master = قدرت + سادگی + سرعت**
-
----
-
-## 📦 تکنولوژی‌های استفاده‌شده
-
-- **زبان برنامه‌نویسی**: Python 3.10+
-- **فریم‌ورک GUI**: PyQt6
-- **پایگاه داده**: SQLite (برای نسخه‌بندی و تنظیمات)
-- **فرمت‌کننده کد**: autopep8
-- **سیستم ساخت**: PyInstaller (برای تولید فایل اجرایی)
-
----
-
-## 🎨 هویت بصری (برای طراحی وب‌سایت)
-
-- **رنگ اصلی**: `#0D47A1` (آبی تیره) – نماد اعتماد و حرفه‌ای‌گری
-- **رنگ ثانویه**: `#FFB300` (طلایی) – نماد خلاقیت و ارزش
-- **رنگ پس‌زمینه**: `#F5F7FA` (سفید مایل به آبی) برای حالت روشن
-- **رنگ متن**: `#1A1A2E` (خاکستری تیره)
-- **فونت**: **Vazir** (برای فارسی) و **Inter** (برای انگلیسی)
-- **سبک کلی**: **مینیمال، تمیز، با فضای سفید کافی و تأکید بر خوانایی**
-
----
-
-## 📄 ساختار صفحات وب‌سایت پیشنهادی
-
-1. **خانه (Home)**
-   - معرفی کوتاه با انیمیشن تایپ‌رایتر
-   - دکمه‌های CTA: "دانلود نسخه‌ی ویندوز" و "مشاهده دمو"
-   - نمایش آمار (تعداد دانلود، کاربران، ورژن فعلی)
-
-2. **ویژگی‌ها (Features)**
-   - نمایش گرید از تمام ویژگی‌ها با آیکون و توضیح مختصر
-   - اسکرین‌شات‌های واقعی از نرم‌افزار
-
-3. **مزیت‌های رقابتی (Why IDE Master?)**
-   - جدول مقایسه‌ای با VS Code و PyCharm
-   - توضیح اینکه چرا کاربر باید دانلود کند
-
-4. **مستندات (Docs)**
-   - لینک به دفترچه‌ی راهنما (PDF یا HTML)
-   - آموزش گام‌به‌گام شروع کار
-
-5. **دانلود (Download)**
-   - دکمه‌ی دانلود نسخه‌ی ویندوز ۶۴ بیت
-   - نمایش تغییرات نسخه‌ها (Changelog)
-
-6. **نظرات (Testimonials)**
-   - نظرات کاربران واقعی (با عکس و نام)
-   - امکان ثبت نظر جدید (فرم ساده)
-
-7. **تماس با ما (Contact)**
-   - فرم تماس (نام، ایمیل، پیام)
-   - اطلاعات تماس: ایمیل و لینک‌های شبکه‌های اجتماعی
-
-8. **فوتر (Footer)**
-   - لینک‌های سریع (خانه، ویژگی‌ها، دانلود، تماس)
-   - کپی‌رایت GitiArts
-   - آیکون‌های شبکه‌های اجتماعی(با لینک میخوام دستی لینک بدم)
-
----
-
-## 🚀 نصب و راه‌اندازی
-
-# یا دانلود فایل اجرایی ویندوز از لینک زیر
-https://gitiarts.ir/idem4/idemv4.zip
